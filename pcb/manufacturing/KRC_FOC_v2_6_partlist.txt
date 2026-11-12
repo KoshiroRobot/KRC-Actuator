@@ -1,0 +1,106 @@
+Partlist
+
+Exported from KRC_FOC_v2_6.sch at 2026/11/11 20:09
+
+EAGLE Version 9.7.0 Copyright (c) 1988-2026 Autodesk, Inc.
+
+Assembly variant: 
+
+Part            Value                           Device                          Package                Library               Sheet
+
+C1              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C2              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C3              100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C4              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C5              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C6              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C7              10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C8              22u                             C_CHIP-0805(2012-METRIC)        CAPC2012X110           Capacitor             1
+C9              4.7n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C10             EEEFTH101XAP                    EEEFTH101XAP                    CAP_EEEFTH101XAP       EEEFTH101XAP          1
+C11             100n                            C_CHIP-0603(1608-METRIC)        CAPC1608X85            Tutorial - Fusion 360 1
+C12             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C13             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C14             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C15             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C16             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C17             1u                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C18             10n                             C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C19             1u                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C20             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C21             12p                             C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C22             12p                             C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C23             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C24             EEEFTH101XAP                    EEEFTH101XAP                    CAP_EEEFTH101XAP       EEEFTH101XAP          1
+C25             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C26             1u                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C27             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C28             1u                              C_CHIP-0603(1608-METRIC)        CAPC1608X85            Capacitor             1
+C29             100n                            C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C30             100n                            C_CHIP-0603(1608-METRIC)        CAPC1608X85            Capacitor             1
+C31             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C32             1u                              C_CHIP-0603(1608-METRIC)        CAPC1608X85            Capacitor             1
+C33             47n                             C_CHIP-0603(1608-METRIC)        CAPC1608X85            Capacitor             1
+C34             1n                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C35             1n                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C36             1n                              C_CHIP-0402(1005-METRIC)        CAPC1005X60            Capacitor             1
+C37             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C38             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C39             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C40             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C41             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C42             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C43             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C44             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C45             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C46             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C47             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C49             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C51             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C52             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+C53             10u                             C_CHIP-1206(3216-METRIC)        CAPC3216X135           Capacitor             1
+D1              LED_GREEN                       LED_CHIP_GREEN-1608             LEDC1608X39N_G         Opto-Electronic       1
+J1              XT30PW-M                        XT30PW-M                        AMASS_XT30PW-M         XT30PW-M              1
+J4              XT30PW-M                        XT30PW-M                        AMASS_XT30PW-M         XT30PW-M              1
+J5              S3B-PH-K-S(LF)(SN)              S3B-PH-K-S(LF)(SN)              JST_S3B-PH-K-S(LF)(SN) S3B-PH-K-S_LF__SN_    1
+J6              S3B-PH-K-S(LF)(SN)              S3B-PH-K-S(LF)(SN)              JST_S3B-PH-K-S(LF)(SN) S3B-PH-K-S_LF__SN_    1
+JP1             PINHD-1X2                       PINHD-1X2                       1X02                   Connector             1
+NTCG164BH103HT1 10k(25?)                        R_CHIP-0603(1608-METRIC)        RESC1608X60            Resistor              1
+Q1              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+Q2              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+Q3              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+Q4              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+Q5              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+Q6              NTMFS5C628NLT1G                 NTMFS5C628NLT1G                 TRANS_NTMFS5C628NLT1G  NTMFS5C628NLT1G       1
+R1              1mR                             R_CHIP-1206(3216-METRIC)        RESC3216X70            Resistor              1
+R2              1mR                             R_CHIP-1206(3216-METRIC)        RESC3216X70            Resistor              1
+R3              1mR                             R_CHIP-1206(3216-METRIC)        RESC3216X70            Resistor              1
+R4              33k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R5              4.7k                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R6              100R                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R7              10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R9              10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R10             10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R11             100R                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R12             100R                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R13             100R                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R15             10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R16             100R                            R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R17             120R                            R_CHIP-0805(2012-METRIC)        RESC2012X65            Resistor              1
+R18             10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+R19             10k                             R_CHIP-0402(1005-METRIC)        RESC1005X40            Resistor              1
+SS14            SS14CR_SMA_403AE_OSI-L          SS14CR_SMA_403AE_OSI-L          CR_SMA_403AE_OSI-L     SS14                  1
+U$1             PAD_1_1.5                       PAD_1_1.5                       PAD_1_1.5              pad_1_1.5             1
+U$2             PAD_1_1.5                       PAD_1_1.5                       PAD_1_1.5              pad_1_1.5             1
+U$3             YNR4030-220M                    YNR4030-220M                    YNR4030-220M           YNR4030-220M          1
+U$4             PAD_1_1.5                       PAD_1_1.5                       PAD_1_1.5              pad_1_1.5             1
+U$5             PAD_1_1.5                       PAD_1_1.5                       PAD_1_1.5              pad_1_1.5             1
+U$8             PAD_1_1.5                       PAD_1_1.5                       PAD_1_1.5              pad_1_1.5             1
+U$9             1.5MM1.5MM                      1.5MM1.5MM                      1.5MM                  1.5mm                 1
+U$10            1.5MM1.5MM                      1.5MM1.5MM                      1.5MM                  1.5mm                 1
+U$11            1.5MM1.5MM                      1.5MM1.5MM                      1.5MM                  1.5mm                 1
+U1              STM32G431CBT6LQFP48-7X7MM       STM32G431CBT6LQFP48-7X7MM       LQFP48-7X7MM           STM32G431CBT6         1
+U2              DRV8323RSRGZR                   DRV8323RSRGZR                   QFN50P700X700X100-49N  DRV8323RSRGZR         1
+U3              MT6816CT-STD                    MT6816CT-STD                    SOIC127P599X175-8N     MT6816CT-STD          1
+U4              TCAN3414DRBR                    TCAN3414DRBR                    XCVR_TCAN3414DRBR      TCAN3414DRBR          1
+U5              X322516MLB4SICHIP_X32B4SI_SYX-L X322516MLB4SICHIP_X32B4SI_SYX-L CHIP_X32B4SI_SYX-L     X322516MLB4SI         1

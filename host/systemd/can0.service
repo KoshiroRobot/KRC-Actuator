@@ -1,0 +1,13 @@
+[Unit]
+Description=KRC actuator CAN bus (can0, 1 Mbps)
+BindsTo=sys-subsystem-net-devices-can0.device
+After=sys-subsystem-net-devices-can0.device
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/sbin/ip link set can0 up type can bitrate 1000000
+ExecStop=/sbin/ip link set can0 down
+
+[Install]
+WantedBy=sys-subsystem-net-devices-can0.device
